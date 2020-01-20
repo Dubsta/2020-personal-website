@@ -7,6 +7,6 @@ See **Master** for work in progress and staging.
 
 See **Template** for the original template files.
 
-See **Fast** for a branch for a quick-start version.
+See **Fast** Quick-start version. Not for merging. (Now out of date.)
 
 See **Publish** for the currently live branch.

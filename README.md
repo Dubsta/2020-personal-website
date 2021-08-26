@@ -3,10 +3,8 @@
 
 [mikeatkinson.tech](http://mikeatkinson.tech)
 
-See **Master** for work in progress and staging.
+See **Master** for work in progres.
 
 See **Template** for the original template files.
-
-See **Fast** for a branch for a quick-start version.
 
 See **Publish** for the currently live branch.
